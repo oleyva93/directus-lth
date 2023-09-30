@@ -1,1 +1,0 @@
-# directus-lth
